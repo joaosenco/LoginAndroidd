@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="entrar">Entrar</string>
+    <string name="aceito_os_termos">Aceito os termos</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="dados_de_login">Dados de login</string>
+</resources>
